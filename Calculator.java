@@ -1,4 +1,4 @@
-public class Calculator {
+public class Calculator  {
 
 	public static double res;
 	public static double add(double a, double b) {
